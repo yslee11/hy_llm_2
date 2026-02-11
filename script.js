@@ -2,7 +2,7 @@
 // 깃허브 저장소 정보 입력
 const GITHUB = {
   owner: "yslee11",      // ✅ 본인 깃허브 ID
-  repo: "hy_llm_1",       // ✅ 저장소 이름
+  repo: "hy_llm_2",       // ✅ 저장소 이름
   branch: "main",               // ✅ 브랜치 (보통 main)
   path: "images"                // ✅ 이미지 폴더 이름
 };
